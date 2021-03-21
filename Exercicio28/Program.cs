@@ -19,6 +19,8 @@ namespace Exercicio28
             //um relatório de todas ocupações do pensionato, por ordem de quarto,
             //conforme exemplo.
 
+            Console.WriteLine("Bom dia!");
+
             Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
 
